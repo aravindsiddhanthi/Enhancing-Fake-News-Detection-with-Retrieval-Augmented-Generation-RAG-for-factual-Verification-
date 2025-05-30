@@ -1,0 +1,10 @@
+streamlit
+pandas
+google-generativeai
+sentence-transformers
+scikit-learn
+python-dotenv
+faiss-cpu
+openpyxl
+requests
+beautifulsoup4
